@@ -305,34 +305,34 @@
     "platform":"Youtube",
     "price":"",
     "valid":"",
-    "type": "Demo",
-    "image":"https://dummyimage.com/450x300/dee2e6/6c757d.jpg",
-    "title": "Demo",
+    "type": "",
+    "image":"",
+    "title": "",
     "discription": "",
     "link": "",
-    "detail_link": "empty",
-    "rating": 4.7,
-    "hours": 85,
-    "downloadable_resourse": 30.5,
+    "detail_link": "",
+    "rating": 0.0,
+    "hours": 0.0,
+    "downloadable_resourse": 0.0,
     "learn": [
-      
+      "Nill","Nill"
     ]
   },
   {
     "platform":"Coursera",
     "price":"",
     "valid":"",
-    "type": "Demo",
-    "image":"https://dummyimage.com/450x300/dee2e6/6c757d.jpg",
-    "title": "Demo",
+    "type": "",
+    "image":"",
+    "title": "",
     "discription": "",
     "link": "",
-    "detail_link": "empty",
-    "rating": 4.7,
-    "hours": 85,
-    "downloadable_resourse": 30.5,
+    "detail_link": "",
+    "rating": 0.0,
+    "hours": 0.0,
+    "downloadable_resourse": 0.0,
     "learn": [
-      
+      "Nill","Nill"
     ]
   }
 ]

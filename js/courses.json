@@ -25,7 +25,7 @@
     "price":"2000",
     "valid":"31-Aug",
     "type": "Web-Devlopment",
-    "image":"..\\assets\\courses\\udemy\\002.png",
+    "image":"../assets/courses/udemy/002.png",
     "title": "The Complete 2022 Web Development Bootcamp",
     "discription": "Become a Full-Stack Web Developer with just ONE course. HTML, CSS, Javascript, Node, React, MongoDB, Web3 and DApps",
     "link": "https://www.udemy.com/course/the-complete-web-development-bootcamp/",

@@ -172,7 +172,7 @@ function get_platform(val) {
 }
 //  2. Image Show on Card 450x300
 function get_image(val) {
-  var item = `<img class="card-img-top" src="${val}" alt="..." />`;
+  var item = `<img class="card-img-top" src="${val}" alt="Image not found" onerror="this.src='https://dummyimage.com/450x300/dee2e6/6c757d.jpg'" />`;
   return item;
 }
 //  3. Type shown as Tilt  - i.e App Development

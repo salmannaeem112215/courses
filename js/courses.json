@@ -4,7 +4,7 @@
     "price":"2000",
     "valid":"31-Aug",
     "type": "App-Devlopment",
-    "image":"./assets/courses/udemy/001.png",
+    "image":".\\assets\\courses\\udemy\\001.png",
     "title": "Flutter & Dart - The Complete Guide [2022 Edition]",
     "discription": "A Complete Guide to the Flutter SDK & Flutter Framework for building native iOS and Android apps",
     "link": "https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps/",
